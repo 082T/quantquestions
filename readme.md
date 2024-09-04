@@ -16,7 +16,7 @@ Prime Subset - 193
 
 Casino Combo - 0.00202
 
-
+Three Riflemen - 0.5714
 
 
 
