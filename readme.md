@@ -18,5 +18,5 @@ Casino Combo - 0.00202
 
 Three Riflemen - 0.5714
 
-
+Lollipop Mix - 300
 
