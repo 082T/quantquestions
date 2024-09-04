@@ -12,7 +12,7 @@ Say 50! - 6
 
 Digit Multiplication I - 255558
 
-
+Prime Subset - 193
 
 
 
