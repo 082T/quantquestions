@@ -20,3 +20,14 @@ Three Riflemen - 0.5714
 
 Lollipop Mix - 300
 
+First Ace - 10.6
+
+
+
+
+
+
+
+
+
+
