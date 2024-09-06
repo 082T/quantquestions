@@ -32,9 +32,9 @@ Seating Drama - 3
 
 100 Lights - 10
 
+Egg Drop I - 13
 
-
-
+Digit Sum - 27000001
 
 
 
