@@ -50,6 +50,7 @@ Ten Ten - 45
 
 Basic Dice Game I - 4.25
 
+Dangerous Doubles - -0.75
 
 
 
