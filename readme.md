@@ -38,7 +38,7 @@ Digit Sum - 27000001
 
 10 Die Sum - 0.125
 
-
+Couple Handshakes - 24
 
 
 
