@@ -40,7 +40,7 @@ Digit Sum - 27000001
 
 Couple Handshakes - 24
 
-
+Theater Seating - 28800
 
 
 
