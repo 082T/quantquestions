@@ -36,6 +36,7 @@ Egg Drop I - 13
 
 Digit Sum - 27000001
 
+10 Die Sum - 0.125
 
 
 
