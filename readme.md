@@ -48,6 +48,7 @@ Picture Day - 140
 
 Ten Ten - 45
 
+Basic Dice Game I - 4.25
 
 
 
