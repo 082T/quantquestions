@@ -24,7 +24,7 @@ First Ace - 10.6
 
 Ferry Stops - 10
 
-
+Bridge Crossing - 17
 
 
 
