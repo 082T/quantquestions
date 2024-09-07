@@ -54,7 +54,7 @@ Dangerous Doubles - -0.75
 
 Ramen Bowl - 1/99 + 1/97 + 1/95 + ... + 1/3 + 1/1 = 3.284 ≈ 3
 
-
+Magic Doors - 7.5
 
 
 
