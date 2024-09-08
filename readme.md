@@ -74,6 +74,7 @@ Chess Tournament I - 64/127
 
 Modified Even Coins - 0.5
 
+Lock and Key Pair - 10
 
 
 
