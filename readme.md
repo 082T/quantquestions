@@ -96,6 +96,7 @@ Valid Expressions - 6561
 
 Mean Babysitter - 34650
 
+Dice Order I - 7/36
 
 
 
