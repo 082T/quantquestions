@@ -102,10 +102,11 @@ Zero Appearance - 2620
 
 Comparing Flips II - 0.6666
 
+St. Petersburg Paradox - -1
 
+Colorful Cube - 0.4
 
-
-
+Exact 5 I - 1/32
 
 
 
