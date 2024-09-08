@@ -72,6 +72,7 @@ The Last Airbender - 1/3
 
 Chess Tournament I - 64/127
 
+Modified Even Coins - 0.5
 
 
 
