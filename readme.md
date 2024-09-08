@@ -112,6 +112,7 @@ Double Dice Payoff - 10
 
 Full Solutions - 3331
 
+Poker Hands V - 88/4165
 
 
 
