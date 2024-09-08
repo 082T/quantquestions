@@ -62,6 +62,7 @@ Collecting Toys I - 1+5/4+5/3+5/2+5 = 11.41666
 
 Heads and Tails I - 4
 
+Car Crashes - 2/3
 
 
 
