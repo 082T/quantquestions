@@ -80,7 +80,8 @@ Digit Halving - 36
 
 Mile Rate - -1
 
+Absolute Difference - 120
 
-
+Binary String - 2^6 + 2^7 - 2^5 = 160
 
 
