@@ -70,6 +70,7 @@ Poker Hands I - 4165
 
 The Last Airbender - 1/3
 
+Chess Tournament I - 64/127
 
 
 
