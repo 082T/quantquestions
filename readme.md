@@ -108,9 +108,9 @@ Colorful Cube - 0.4
 
 Exact 5 I - 1/32
 
+Double Dice Payoff - 10
 
-
-
+Full Solutions - 3331
 
 
 
