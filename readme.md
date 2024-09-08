@@ -78,7 +78,7 @@ Lock and Key Pair - 10
 
 Digit Halving - 36
 
-
+Mile Rate - -1
 
 
 
