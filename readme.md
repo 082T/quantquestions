@@ -84,4 +84,25 @@ Absolute Difference - 120
 
 Binary String - 2^6 + 2^7 - 2^5 = 160
 
+Squares on a Chess Board - 204
+
+Limiting Values I - 4
+
+Mod Mondays - 4
+
+Ants on a Triangle - 0.25
+
+Valid Expressions - 6561
+
+Mean Babysitter - 34650
+
+
+
+
+
+
+
+
+
+
 
