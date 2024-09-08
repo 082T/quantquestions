@@ -100,6 +100,7 @@ Dice Order I - 7/36
 
 Zero Appearance - 2620
 
+Comparing Flips II - 0.6666
 
 
 
