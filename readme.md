@@ -58,6 +58,7 @@ Magic Doors - 7.5
 
 Better in Red I - 0.6
 
+Collecting Toys I - 1+5/4+5/3+5/2+5 = 11.41666
 
 
 
