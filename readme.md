@@ -118,6 +118,7 @@ Poker Hands V - 88/4165
 
 Dot Removal - 0.5
 
+Clock Angle II - 7.5
 
 
 
