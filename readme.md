@@ -142,6 +142,14 @@ Coin Identifier - 6
 
 Colorful Line - 11085360
 
+Power Digits - 0.4
+
+
+
+
+
+
+
 
 
 
