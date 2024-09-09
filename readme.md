@@ -114,6 +114,7 @@ Full Solutions - 3331
 
 Poker Hands V - 88/4165
 
+60-40 Split - 79/120
 
 
 
