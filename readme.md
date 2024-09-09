@@ -130,9 +130,11 @@ Red-Blue Die Match - 10/36
 
 Circular Birthdays - 1/360
 
+Perfect Seating I - 1/360
 
+9 Appearance - 300
 
-
+Hand Meet - 12/11
 
 
 
