@@ -120,7 +120,7 @@ Dot Removal - 0.5
 
 Clock Angle II - 7.5
 
-
+Equal Unequal Game - 1/3
 
 
 
