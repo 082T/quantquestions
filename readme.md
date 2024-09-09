@@ -122,6 +122,7 @@ Clock Angle II - 7.5
 
 Equal Unequal Game - 1/3
 
+Compound Interest I - 270
 
 
 
