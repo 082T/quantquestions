@@ -144,7 +144,19 @@ Colorful Line - 11085360
 
 Power Digits - 0.4
 
+Odd Before Even - 0.05
 
+Unknown Baby - 0.6
+
+Alternating Sum - 5050
+
+Game Show I - 2/3
+
+3rd Head - 12
+
+Mixed Set II - 8
+
+Captive Marbles - 0.74747
 
 
 
