@@ -166,6 +166,18 @@ Local Maxima - 5
 
 Resell Painting - 0
 
+18 Sides - 6
+
+Multiple Divisors I - 1/25
+
+9 For 1 - 55555555
+
+Cat Dog Line - 24/31
+
+
+
+
+
 
 
 
