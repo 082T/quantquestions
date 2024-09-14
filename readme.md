@@ -164,6 +164,12 @@ Adult Concert - 125
 
 Local Maxima - 5
 
+Resell Painting - 0
+
+
+
+
+
 
 
 
