@@ -182,7 +182,7 @@ Annie's Coin - 5/9
 
 Head Tail Sequence - 1/10
 
-
+View All Sides - 14.7
 
 
 
