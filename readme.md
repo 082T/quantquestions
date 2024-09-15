@@ -184,6 +184,30 @@ Head Tail Sequence - 1/10
 
 View All Sides - 14.7
 
+Cube Pack - 216
+
+Prime Sum - 3/4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
