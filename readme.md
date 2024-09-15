@@ -174,7 +174,13 @@ Multiple Divisors I - 1/25
 
 Cat Dog Line - 24/31
 
+Circular Charlie - 6/91
 
+Bread Slicer I - 5/8
+
+Annie's Coin - 5/9
+
+Head Tail Sequence - 1/10
 
 
 
