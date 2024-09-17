@@ -190,11 +190,11 @@ Prime Sum - 3/4
 
 Revolver Time - 24
 
+Doubling Bacterium - 3200
 
+River Length - 36
 
-
-
-
+Incomplete Deck - 43
 
 
 
