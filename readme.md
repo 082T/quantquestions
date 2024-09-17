@@ -188,7 +188,7 @@ Cube Pack - 216
 
 Prime Sum - 3/4
 
-
+Revolver Time - 24
 
 
 
