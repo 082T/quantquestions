@@ -204,13 +204,13 @@ Sheep Sharing - 3456
 
 Visible Number of Heads - 3.6
 
+Greedy Pirates - 98
 
+Fresh Fruits - 7
 
+Stamp Sum - 79
 
-
-
-
-
+Builders - 120
 
 
 
