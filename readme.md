@@ -212,7 +212,7 @@ Stamp Sum - 79
 
 Builders - 120
 
-
+Lowest Target - 277200
 
 
 
