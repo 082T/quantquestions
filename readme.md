@@ -220,6 +220,7 @@ Lucky Genie - 0
 
 Mean Cards - 50.5
 
+1 Head Up - 3/7
 
 
 
