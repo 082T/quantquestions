@@ -216,6 +216,18 @@ Lowest Target - 277200
 
 12-8 Showoff - 6.75
 
+Lucky Genie - 0
+
+Mean Cards - 50.5
+
+
+
+
+
+
+
+
+
 
 
 
