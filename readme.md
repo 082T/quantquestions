@@ -214,6 +214,7 @@ Builders - 120
 
 Lowest Target - 277200
 
+12-8 Showoff - 6.75
 
 
 
