@@ -232,9 +232,9 @@ Kiddie Pool - 12
 
 Dice Labels - 30
 
+Lapping - 18
 
-
-
+Chess Tournament II - 0.2519685039
 
 
 
