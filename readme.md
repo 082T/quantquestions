@@ -244,7 +244,7 @@ The Sum Is Right - 0.5
 
 Questionable Values - 225
 
-
+Coin Runs - 50.5
 
 
 
