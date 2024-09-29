@@ -246,7 +246,7 @@ Questionable Values - 225
 
 Coin Runs - 50.5
 
-
+Primes and Composites - 0
 
 
 
