@@ -240,7 +240,7 @@ Mixed Set I - 384
 
 Origin In Between - 0.44444444
 
-
+The Sum Is Right - 0.5
 
 
 
