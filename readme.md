@@ -260,7 +260,7 @@ Pick Your Urn Wisely - 7.42857142
 
 Take and Roll I - 1773.33333333
 
-
+Minimal Flipping - 0.8239746
 
 
 
