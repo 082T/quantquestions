@@ -258,7 +258,7 @@ Poor Odds - 0.1046035
 
 Pick Your Urn Wisely - 7.42857142
 
-
+Take and Roll I - 1773.33333333
 
 
 
