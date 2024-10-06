@@ -280,7 +280,7 @@ Independent Children - 3
 
 Crossing Pairs - 1/3
 
-
+Sum Over Min Die - 2779/720
 
 
 
