@@ -284,7 +284,7 @@ Sum Over Min Die - 2779/720
 
 Mathematical Birthday - 4650
 
-
+Basic Eigenvalues - 13
 
 
 
