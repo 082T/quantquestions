@@ -1,4 +1,4 @@
-Collection of solutions for https://quantquestions.io/problems
+### Collection of solutions for https://quantquestions.io/problems
 
 Increasing Dice Order I - 15/36
 
