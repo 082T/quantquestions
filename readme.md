@@ -1,3 +1,5 @@
+Collection of solutions for https://quantquestions.io/problems
+
 Increasing Dice Order I - 15/36
 
 Probability of Unfair Coin I - 0.9118
