@@ -292,7 +292,7 @@ Reflip - 6
 
 First Pair - 3/51
 
-
+Bear and Bull Market - 0
 
 
 
