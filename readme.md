@@ -310,7 +310,7 @@ Deviation Probability - 0.023
 
 Integer Polygon - 22
 
-
+Unfriendly - 36
 
 
 
